@@ -58,31 +58,31 @@ Vue + Element UI + uni-app
 
 <table>
     <tr>
-        <td class='miniapp'><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-home.png"/></td>
-        <td class='miniapp'><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-doctor.png"/></td>
+        <td class='miniapp'><img src="images/hosp-home.png"/></td>
+        <td class='miniapp'><img src="images/hosp-doctor.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-doctor-2.png"/></td>
-		<td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-dept.png"/></td>
+        <td><img src="images/hosp-doctor-2.png"/></td>
+		<td><img src="images/hosp-dept.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-schedule-dept.png"/></td>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-schedule-timerange.png"/></td>
+        <td><img src="images/hosp-schedule-dept.png"/></td>
+        <td><img src="images/hosp-schedule-timerange.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-appointment.png"/></td>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-order-list.png"/></td>
+        <td><img src="images/hosp-appointment.png"/></td>
+        <td><img src="images/hosp-order-list.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-appointment.png"/></td>
+        <td><img src="images/hosp-appointment.png"/></td>
         <td></td>
     </tr>
 	<tr>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/doctor-schedule-01.png"/></td>
-		<td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/doctor-schedule-02.png"/></td>
+        <td><img src="images/doctor-schedule-01.png"/></td>
+		<td><img src="images/doctor-schedule-02.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://gitee.com/whwtree/hospital-appointment/raw/master/images/hosp-order-01.png"/></td>
+        <td><img src="images/hosp-order-01.png"/></td>
 		<td></td>
     </tr>
 </table>
