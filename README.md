@@ -74,7 +74,7 @@ Vue + Element UI + uni-app
         <td><img src="images/hosp-order-list.png"/></td>
     </tr>
 	<tr>
-        <td><img src="images/hosp-appointment.png"/></td>
+        <td><img src="images/hosp-order-detail.png"/></td>
         <td></td>
     </tr>
 	<tr>
